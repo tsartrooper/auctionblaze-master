@@ -1,3 +1,6 @@
 [submodule "auctionblaze-server"]
 	path = auctionblaze-server
 	url = https://github.com/tsartrooper/auctionblaze-server.git
+[submodule "auctionblaze-app"]
+	path = auctionblaze-app
+	url = https://github.com/tsartrooper/auctionblaze.git
