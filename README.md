@@ -1,4 +1,4 @@
-**Architecture Overview:**
+## Architecture Overviev
 
 **High Level Design:**
 This is project particularly follows modular monolith architecture practices. The individual modules are loosely coupled for potential of this project breaking down into microservices down the line.
@@ -14,4 +14,12 @@ For Scheduling Spring Quartz scheduler was used.
 
 **Data Storage(Postgres):**
 For Database Postgres was used.Port-Adapter Design pattern is implemented, to maintain interdependency between modules as loosely coupled as possible, this typically was inspired by modular monolilth architecture.
+
+## Todo's
+- [x] Authentication via google
+- [x] Bids History
+- [ ] Auctions Catalog Filter
+- [ ] Profile
+- [ ] Payment
+- [ ] Push Notifications  
 
